@@ -8292,6 +8292,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0.792, y: -0.248, z: 89.954}
+--- !u!1001 &548343523
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -53.886475
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 72.19
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -36.42
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_Name
+      value: Mesa-Redonda
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
 --- !u!1 &575015681
 GameObject:
   m_ObjectHideFlags: 0
@@ -15861,6 +15918,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0.242, y: -89.545, z: -0.782}
+--- !u!1001 &1248503876
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -41.813362
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 74.05
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -38.934753
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
+      propertyPath: m_Name
+      value: Mesa-Redonda (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: dccf53297fac0804f91d3ebbd5bbfaf0, type: 3}
 --- !u!1 &1259128174
 GameObject:
   m_ObjectHideFlags: 0
@@ -28606,3 +28720,5 @@ SceneRoots:
   - {fileID: 143449298}
   - {fileID: 2038506111}
   - {fileID: 777299286}
+  - {fileID: 548343523}
+  - {fileID: 1248503876}
